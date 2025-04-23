@@ -1,8 +1,11 @@
-## Hi! 👋 I'm Abdulaziz Khader, or Aziz for short.
+## Hi! I'm Abdulaziz Khader, or Aziz for short.
 
 ### 🎓 Third year at the University of California, San Diego stuyding Computer Engineering
 
 
+
+### Contact Information
+Email: [akhader@ucsd.edu](mailto:akhader@ucsd.edu)
 
 <!--
 **aokhader/aokhader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
