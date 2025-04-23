@@ -1,11 +1,11 @@
 ## Hi! I'm Abdulaziz Khader, or Aziz for short.
 
 ### 🎓 Third year at the University of California, San Diego stuyding Computer Engineering
-
+I'm a determined software engineer with a passion for machine learning and dynamic web applications. 
 
 
 ## Contact Information
-Linkedin: [Profile Link](https://www.linkedin.com/in/abdulaziz-khader/) 
+LinkedIn: [Profile Link](https://www.linkedin.com/in/abdulaziz-khader/) 
 
 Email: [akhader@ucsd.edu](mailto:akhader@ucsd.edu)
 
