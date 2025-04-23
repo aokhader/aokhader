@@ -1,10 +1,11 @@
 ## Hi! I'm Abdulaziz Khader, or Aziz for short.
 
 ### 🎓 Third year at the University of California, San Diego stuyding Computer Engineering
-I'm a determined software engineer with a passion for machine learning and dynamic web applications. 
-
+I'm a determined software engineer with a passion for machine learning and dynamic web applications. With skills in Python, C++, and Machine Learning, I love using my technical expertise to create impactful solutions to real-world problems. I believe that grasping the essence of a topic happens outside of a classroom, and is done by experimenting and getting feedback. This is why I value continuous learning and believe that by constantly expanding my skill set, I can achieve a greater understanding of my skillset and solve more complex problems. 
 
 ## Contact Information
+Portfolio: [My portfolio](aokhader.vercel.app)
+
 LinkedIn: [Profile Link](https://www.linkedin.com/in/abdulaziz-khader/) 
 
 Email: [akhader@ucsd.edu](mailto:akhader@ucsd.edu)
