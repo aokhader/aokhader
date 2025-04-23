@@ -4,7 +4,7 @@
 
 
 
-### Contact Information
+## Contact Information
 Linkedin: [Profile Link](https://www.linkedin.com/in/abdulaziz-khader/) 
 
 Email: [akhader@ucsd.edu](mailto:akhader@ucsd.edu)
