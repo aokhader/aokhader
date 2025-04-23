@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Abdulaziz Khader, or Aziz for short.
 
-### 
+### 🎓 Third year at the University of California, San Diego stuyding Computer Engineering
 
 
 
