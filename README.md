@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Abdulaziz Khader.
 
-### 🎓 Senior at the University of California, San Diego stuyding Computer Engineering
+### 🎓 University of California, San Diego New Grad majored in Computer Engineering with a minor in Mathematics
 I'm a determined software engineer with a passion for machine learning and dynamic web applications. With skills in Python, C++, and Machine Learning, I love using my technical expertise to create impactful solutions to real-world problems. I believe that grasping the essence of a topic happens outside of a classroom, and is done by experimenting and getting feedback. This is why I value continuous learning and believe that by constantly expanding my skill set, I can achieve a greater understanding of my skillset and solve more complex problems. 
 
 ## Contact Information
